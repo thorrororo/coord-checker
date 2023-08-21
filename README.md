@@ -1,4 +1,4 @@
-# cord-checker
+# coord-checker
 Check the coordinates in your photo.
 # What should I do? #
 1. Download the **main.py** file and **test.png** file.
