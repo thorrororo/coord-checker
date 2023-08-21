@@ -14,7 +14,7 @@ Check the coordinates in your photo.
 **Discord**
   - thorrow
 # Program information #
-- *file extension* - .pu (Python)
+- *file extension* - .py (Python)
 - *The program does not contain malicious code.*
 # Author #
 thorrow
